@@ -1,9 +1,6 @@
-.venv-sim/
 .cache/
 data/
 runs/
 logs/
-checkpoints/
-assets/
 __pycache__/
 *.egg-info/
